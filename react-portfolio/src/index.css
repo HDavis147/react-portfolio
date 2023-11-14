@@ -18,6 +18,10 @@
   -webkit-text-size-adjust: 100%;
 }
 
+header {
+  border: 3px solid #646cff;
+}
+
 a {
   font-weight: 500;
   color: #646cff;
@@ -31,7 +35,7 @@ body {
   margin: 0;
   display: flex;
   place-items: center;
-  min-width: 320px;
+  min-width: 100vw;
   min-height: 100vh;
 }
 

@@ -1,0 +1,1 @@
+import Portrait from '../assets/portrait.jpg';
