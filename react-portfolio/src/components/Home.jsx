@@ -1,1 +1,9 @@
-import Portrait from '../assets/portrait.jpg';
+export default function Home () {
+  return (
+    <div>
+      <p>
+      This is the HOME section.
+      </p>
+    </div>
+  );
+}

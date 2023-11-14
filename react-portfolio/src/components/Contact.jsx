@@ -1,11 +1,9 @@
-export default function Footer () {
+export default function Contact () {
   return (
-    <footer>
-      <div>
-        <p>
-        This is the CONTACT section.
-        </p>
-      </div>
-    </footer>
+    <div>
+      <p>
+      This is the CONTACT section.
+      </p>
+    </div>
   );
 }
