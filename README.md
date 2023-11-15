@@ -8,6 +8,7 @@ This application allows users to view my previous projects and access contact in
 
 ![image](https://github.com/HDavis147/react-portfolio/assets/133936381/479989ed-fc7e-45aa-b7a8-4de4be4e0633)
 
+Access the deployment ![here](https://main--majestic-otter-e12206.netlify.app/).
 
 ## Credits
 
