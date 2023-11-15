@@ -19,7 +19,7 @@
 }
 
 header {
-  border: 3px solid #646cff;
+  /* border: 3px solid #646cff; */
 }
 
 a {
@@ -32,10 +32,7 @@ a:hover {
 }
 
 body {
-  margin: 0;
   display: flex;
-  place-items: center;
-  min-width: 100vw;
   min-height: 100vh;
 }
 
