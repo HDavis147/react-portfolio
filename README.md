@@ -1,4 +1,4 @@
-# react-portfolio
+# Houston Davis Portfolio
 This repository holds the code for my portfolio, utilizing react.
 
 ## Description
